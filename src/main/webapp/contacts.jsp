@@ -11,7 +11,7 @@
         <div class="header__inner">
             <a class="header__logo" href="/visiting-card-site-1">Омский <span class="header__span">Провайдер</span></a>
             <div class="header__nav">
-                <a class="header__nav-element" href="/">Услуги</a>
+                <a class="header__nav-element" href="/visiting-card-site-1">Услуги</a>
                 <a class="header__nav-element" href="/visiting-card-site-1/contacts">Контакты</a>
                 <a class="header__nav-element" href="/visiting-card-site-1/about-us">О нас</a>
                 <a class="header__nav-element" href="/visiting-card-site-1/feedback">Обратная связь</a>

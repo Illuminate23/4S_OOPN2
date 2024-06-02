@@ -11,7 +11,7 @@
         <div class="header__inner">
             <a class="header__logo" href="/visiting-card-site-1">Омский <span class="header__span">Провайдер</span></a>
             <div class="header__nav">
-                <a class="header__nav-element" href="/">Услуги</a>
+                <a class="header__nav-element" href="/visiting-card-site-1">Услуги</a>
                 <a class="header__nav-element" href="/visiting-card-site-1/contacts">Контакты</a>
                 <a class="header__nav-element" href="/visiting-card-site-1/about-us">О нас</a>
                 <a class="header__nav-element" href="/visiting-card-site-1/feedback">Обратная связь</a>
@@ -31,11 +31,11 @@
                 </div>
                 <div class="question">
                     <div class="question__title">Как много опыта вы имеете?</div>
-                    <div class="question__text">Мы работаем уже целых 15 лет! За это время мы многому научились, а также помогли многим людям реализовать их собственные проекты, идеи, праздники и многое другое.</div>
+                    <div class="question__text">Мы работаем уже целых 15 лет!</div>
                 </div>
                 <div class="question">
-                    <div class="question__title">Насколько надёжна ваша печать?</div>
-                    <div class="question__text">В нашем цехе находится только проверенное временем и делом оборудование. Мы обращаем внимание даже на самые мелкие детали в процессе печати, поэтому вы можете не волноваться за качество приобретаемой у нас продукции.</div>
+                    <div class="question__title">Насколько хороши наши услуги?</div>
+                    <div class="question__text">Настолько!</div>
                 </div>
             </div>
         </div>
